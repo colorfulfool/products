@@ -1,0 +1,50 @@
+{
+  "products": {
+    "id": 1,
+    "sizes": [
+    {
+      "name": "small",
+      "price": 10,
+      "id": 1
+    },
+    {
+      "name": "medium",
+      "price": 20,
+      "id": 2
+    }
+  ],
+  "colors": [
+    {
+      "name": "Gold",
+      "price": 100,
+      "id": 1
+    },
+    {
+      "name": "Black",
+      "price": 10,
+      "id": 2
+    },
+    {
+      "name": "Red",
+      "price": 5,
+      "id": 3
+    }
+  ],
+  "elements": [
+    {
+      "name": "Jacket",
+      "price": 50,
+      "id": 1
+    },
+    {
+      "name": "Shirt",
+      "price": 50,
+      "id": 3
+    },
+    {
+      "name": "Trousers",
+      "price": 50,
+      "id": 2
+    }
+  ]
+}
